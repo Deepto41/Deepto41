@@ -1,78 +1,106 @@
-<img src="https://i.ibb.co/JjwnSZTz/1756830632692.jpg" alt="Project Banner" width="800" height="300">
+<p align="center">
+  <img src="https://i.ibb.co/JjwnSZTz/1756830632692.jpg" alt="Project Banner" width="800" height="300">
+</p>
+
+<p align="center">Hi there 👋</p>
+<h3 align="center">Seeking for a Developer??</h3>
+<h1 align="center">
+  🏆 <bold>Deepta Dutta</bold> is Here 🏆
+</h1>
 
 ---
 
 # 💫 About Me
 
-I’m a passionate **MERN Stack Developer** dedicated to building **scalable, efficient, and user-centric web applications**.  
-With hands-on experience in both front-end and back-end technologies, I specialize in delivering **high-quality, maintainable code** and **seamless user 
-experiences**.
+I’m a passionate **MERN Stack Developer** focused on building **scalable, efficient, and user-centric web applications**.  
+With a strong foundation in both frontend and backend development, I create **clean, maintainable code** and **modern, high-performance interfaces**.
 
-- ⚛️ Modern JavaScript frameworks like React.JS
-- 🎨 Responsive & modern design with TailwindCSS 
-- 🛠️ REST API integration & server-side development with Node.js
-
- I thrive on solving complex problems, learning new technologies, and contributing to meaningful, real-world projects that make an impact.
+- ⚛️ Building interactive UIs with React.js  
+- 🎨 Designing responsive layouts using TailwindCSS  
+- 🛠️ Developing REST APIs with Node.js & Express  
+- 🧠 Constantly learning & exploring modern tech  
+- 🌱 Dedicated to real-world projects & continuous growth  
 
 ---
+
 # 🌟 Current Activities
-- Exploring **Next.js** and building server-side rendered apps 🚀  
-- Working on a **Courier service website** project 🌍  
-- Learning advanced **React.js patterns** and state management ⚛️  
-- Experimenting with **API integrations** and dynamic content 🔗
-  
+- Diving deep into **Next.js & SSR** 🚀  
+- Working on a **Courier Service Web Application** 📦  
+- Learning advanced **React patterns & architecture**  
+- Experimenting with **integrations & dynamic API workflows**  
+
 ---
 
-# 🔗 Connect with Me 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/deepto.19)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeptodutta/)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/deepta_dutta)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deeptaduttaksp@gmail.com)
+# 🔗 Connect with Me  
 
+<p align="center">
+  <a href="https://www.facebook.com/deepto.19" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" style="height:30px; margin:10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/deeptodutta/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height:30px; margin:10px;" />
+  </a>
+  <a href="https://x.com/deepta_dutta" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" style="height:30px; margin:10px;" />
+  </a>
+  <a href="mailto:deeptaduttaksp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" style="height:30px; margin:10px;" />
+  </a>
 </p>
 
+  <br>
 
-<br>
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+<div>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,bootstrap" />
+</div>
+
+### **Backend**
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</div>
+
+### **Tools & Others**
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel" />
+</div>
+
 
 ---
 
-# 💻 Tech Stack
-Frontend: 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)](https://react.dev/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)](https://tailwindcss.com/)
-
- Backend:
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat)](https://expressjs.com/)
-
- Database:
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)](https://firebase.google.com/)
-
-UI/UX:
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)](https://tailwindcss.com/)
-[![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4285F4?logo=googlechrome&logoColor=white&style=flat)](#)
-
-Authentication:
-[![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat)](https://jwt.io/)
-[![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=black&style=flat)](https://firebase.google.com/docs/auth)
-
----
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Deepto41&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Deepto41&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepto41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepto41&theme=tokyonight&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Deepto41&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepto41&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 # 🚀 Current Goals
-- Building production-grade React.js apps <br>
-- Sharing knowledge through open-source and tutorials <br>
-- Exploring new technologies and modern web development tools <br>
-- Contributing to meaningful projects that make an impact <br>
-- Improving coding skills and best practices every day <br>
+- Build production-grade React & Next.js applications  
+- Contribute to open-source & share knowledge  
+- Explore modern web technologies & tools  
+- Create impactful, real-world projects  
+- Improve clean code practices & architecture  
 
 ---
 
-⚡ Let’s build something awesome together!
+# ⚡ Let’s Build Something Awesome Together!
+<p align="center">
+  🚀 Open to collaborations, projects, and new opportunities!  
+</p>
+
+
