@@ -1,13 +1,11 @@
 <p align="center">
   <img src="https://i.ibb.co/JjwnSZTz/1756830632692.jpg" alt="Project Banner" width="800" height="300">
 </p>
-
 <p align="center">Hi there 👋</p>
 <h3 align="center">Seeking for a Developer??</h3>
 <h1 align="center">
-  🏆 <bold>Deepta Dutta</bold> is Here 🏆
+  🏆 <strong>Deepta Dutta</strong> is Here 🏆
 </h1>
-
 
 ---
 
