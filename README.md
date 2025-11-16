@@ -43,7 +43,7 @@ With a strong foundation in both frontend and backend development, I create **cl
   <a href="https://x.com/deepta_dutta" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" style="height:30px; margin:10px;" />
   </a>
-  <a href="mailto:deeptaduttaksp@gmail.com" target="_blank">
+  <a href="deeptaduttaksp@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" style="height:30px; margin:10px;" />
   </a>
 </p>
