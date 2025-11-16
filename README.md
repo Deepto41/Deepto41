@@ -34,16 +34,16 @@ With a strong foundation in both frontend and backend development, I create **cl
 # 🔗 Connect with Me  
 
 <p align="center">
-  <a href="https://www.facebook.com/deepto.19" target="_blank">
+  <a href="https://www.facebook.com/deepto.19" target="blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" style="height:30px; margin:10px;" />
   </a>
-  <a href="https://www.linkedin.com/in/deeptodutta/" target="_blank">
+  <a href="https://www.linkedin.com/in/deeptodutta/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height:30px; margin:10px;" />
   </a>
-  <a href="https://x.com/deepta_dutta" target="_blank">
+  <a href="https://x.com/deepta_dutta" target="blank">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" style="height:30px; margin:10px;" />
   </a>
-  <a href="mailto:deeptaduttaksp@gmail.com" target="_blank">
+  <a href="deeptaduttaksp@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" style="height:30px; margin:10px;" />
   </a>
 </p>
