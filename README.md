@@ -32,7 +32,7 @@ With a strong foundation in both frontend and backend development, I create **cl
 
 # 🔗 Connect with Me  
 
-<p align="center">
+<p align="left">
   <a href="https://www.facebook.com/deepto.19" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" style="height:30px; margin:10px;" />
   </a>
